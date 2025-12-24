@@ -1,7 +1,5 @@
 ## 👩‍💻 Técnica em Informática para Internet
 
----
-
 ### Projetos
 - 📚 [Biblioteca Virtual Alexandria](https://github.com/ProjetoIntegradorAle/biblioteca-virtual)
 
