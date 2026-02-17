@@ -1,5 +1,4 @@
 ## Hi, I'm Luana! 👋" 
-<img width="111" height="636" alt="Brasil" src="https://github.com/user-attachments/assets/dc159e86-e121-487a-8333-425ccd2cee4b" />
 
 ## 👩‍💻 Computer Technician for the Internet 
 
